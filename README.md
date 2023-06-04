@@ -9,8 +9,8 @@
     - Email: workwithkisha@gmail.com</center>
     - GitHub: https://github.com/kishaonia</center>
     - LinkedIn: https://linkedin.com/in/kishaonia</center>
- 😄 Pronouns: She/Her</center>
- ⚡ Fun fact: I think I am a dog whisperer! 🐶</center>
+ ### 😄 Pronouns: She/Her</center>
+ ### ⚡ Fun fact: I think I am a dog whisperer! 🐶</center>
 
 ##  Also I am open to work! So please don't forget to reach out if you need a software developer! 
 ---
