@@ -3,13 +3,6 @@
 
 
 
-
-<!-- ### :fire: My Stats : -->
-
-
-
-<br></br>
-
 ### 🔭 I’m currently working on frontend development projects using React.js, Redux, and JavaScript.
 ### 🌱 I’m currently learning backend development with Node.js, Express, SQL, and PostgreSQL.
 ### 👯 I’m looking to collaborate on web development projects that involve both frontend and backend technologies.
@@ -21,10 +14,9 @@
    - **LinkedIn**: [linkedin.com/in/kishaonia](https://linkedin.com/in/kishaonia)
 ### 😄 Pronouns: She/Her
 ###  ⚡ Fun fact: I think I am a dog whisperer! 🐶
-<br> </br>
+
 ## Also I am open to work! So please don't forget to reach out if you need a software developer! 
 
-<br></br>
  ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,21 +33,19 @@
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-## Some the work I've done! 
+# <center>Some of the work I've done!</center>
 
-### [Wedding Clone](https://kk-em38.onrender.com)
-![Alt text](https://user-images.githubusercontent.com/110861069/241862056-1434fef7-302a-4180-a8e1-be868ca2ee1d.png)
+| [Wedding Clone](https://kk-em38.onrender.com) | [Snowbnb](https://snowbnblfa.onrender.com) | [Spork](https://spork-group-project.onrender.com/) |
+| :--------------------------------------------: | :---------------------------------------: | :----------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/110861069/241862056-1434fef7-302a-4180-a8e1-be868ca2ee1d.png" alt="Wedding Clone Screenshot" width="100%"> | <img src="https://user-images.githubusercontent.com/110861069/243144040-a4dfffce-0420-4b72-a078-c2b294a221d7.png" alt="Snowbnb Screenshot" width="100%"> | <img src="https://user-images.githubusercontent.com/110861069/243143968-8c8744ae-959c-4a65-b89a-fb1fbd9e8d8e.png" alt="Spork Screenshot" width="100%"> |
+| <img src="https://user-images.githubusercontent.com/110861069/241862060-ac1373c5-46c3-4bc4-8b7d-b52dd926a6dc.png" alt="Wedding Clone Screenshot" width="100%"> | <img src="https://user-images.githubusercontent.com/110861069/243144043-be11b439-5fa5-46d0-ba9e-08c1e923f0a1.png" alt="Snowbnb Screenshot" width="100%"> | <img src="https://user-images.githubusercontent.com/110861069/243143970-5a47cb03-5b1b-45da-a09c-b772f6bacdbc.png" alt="Spork Screenshot" width="100%"> |
 
-![Alt text](https://user-images.githubusercontent.com/110861069/241862060-ac1373c5-46c3-4bc4-8b7d-b52dd926a6dc.png)
+## GitHub Statistics
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KishaOnia&show_icons=true&count_private=true&theme=algolia"></p>
 
-### [Snowbnb](https://snowbnblfa.onrender.com)
-![Alt text](https://user-images.githubusercontent.com/110861069/243144040-a4dfffce-0420-4b72-a078-c2b294a221d7.png)
-![Alt text](https://user-images.githubusercontent.com/110861069/243144043-be11b439-5fa5-46d0-ba9e-08c1e923f0a1.png)
-
-### [Spork](https://spork-group-project.onrender.com/)
-
-![Alt text](https://user-images.githubusercontent.com/110861069/243143968-8c8744ae-959c-4a65-b89a-fb1fbd9e8d8e.png)![Alt text](https://user-images.githubusercontent.com/110861069/243143970-5a47cb03-5b1b-45da-a09c-b772f6bacdbc.png)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishaOnia&show_icons=true&count_private=true&theme=algolia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishaOnia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Top Languages
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishaOnia&layout=compact&theme=vision-friendly-dark">
+  </a>
+</p>
