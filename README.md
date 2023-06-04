@@ -1,37 +1,41 @@
-# Hi there! 👋
+# <center>Hi there! 👋</center>
 
+### <center>🔭 I’m currently working on frontend development projects using React.js, Redux, and JavaScript.</center>
+### <center>🌱 I’m currently learning backend development with Node.js, Express, SQL, and PostgreSQL.</center>
+### <center>👯 I’m looking to collaborate on web development projects that involve both frontend and backend technologies.</center>
+### <center>🤔 I’m looking for help with advanced debugging techniques and deployment strategies.</center>
+### <center>💬 Ask me about my experience in frontend development, agile project management, or any of my projects.</center>
+### <center>📫 How to reach me:</center>
+   <center>- Email: workwithkisha@gmail.com</center>
+   <center>- GitHub: https://github.com/kishaonia</center>
+   <center>- LinkedIn: https://linkedin.com/in/kishaonia</center>
+<center>😄 Pronouns: She/Her</center>
+<center>⚡ Fun fact: I think I am a dog whisperer! 🐶</center>
 
+## <center>Also I am open to work! So please don't forget to reach out if you need a software developer!<center>
+---
 
+### <center>Languages:</center>
+<center><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><center>
 
-### 🔭 I’m currently working on frontend development projects using React.js, Redux, and JavaScript.
-### 🌱 I’m currently learning backend development with Node.js, Express, SQL, and PostgreSQL.
-### 👯 I’m looking to collaborate on web development projects that involve both frontend and backend technologies.
-### 🤔 I’m looking for help with advanced debugging techniques and deployment strategies.
-### 💬 Ask me about my experience in frontend development, agile project management, or any of my projects.
-### 📫 How to reach me: 
-   - **Email**: workwithkisha@gmail.com
-   - **GitHub**: [github.com/kishaonia](https://github.com/kishaonia)
-   - **LinkedIn**: [linkedin.com/in/kishaonia](https://linkedin.com/in/kishaonia)
-### 😄 Pronouns: She/Her
-###  ⚡ Fun fact: I think I am a dog whisperer! 🐶
+---
+### <center>Backend:</center>
+<center><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></center>
 
-## Also I am open to work! So please don't forget to reach out if you need a software developer! 
+---
+### <center>Frontend:</center>
+<center><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></center>
+<br></br>
 
- ### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-### Backend:
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-### Frontend:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 # <center>Some of the work I've done!</center>
 
