@@ -35,8 +35,8 @@
 | <img src="https://user-images.githubusercontent.com/110861069/241862056-1434fef7-302a-4180-a8e1-be868ca2ee1d.png" alt="Wedding Clone Screenshot" width="100%"> | <img src="https://user-images.githubusercontent.com/110861069/243144040-a4dfffce-0420-4b72-a078-c2b294a221d7.png" alt="Snowbnb Screenshot" width="100%"> | <img src="https://user-images.githubusercontent.com/110861069/243143968-8c8744ae-959c-4a65-b89a-fb1fbd9e8d8e.png" alt="Spork Screenshot" width="100%"> |
 | <img src="https://user-images.githubusercontent.com/110861069/241862060-ac1373c5-46c3-4bc4-8b7d-b52dd926a6dc.png" alt="Wedding Clone Screenshot" width="100%"> | <img src="https://user-images.githubusercontent.com/110861069/243144043-be11b439-5fa5-46d0-ba9e-08c1e923f0a1.png" alt="Snowbnb Screenshot" width="100%"> | <img src="https://user-images.githubusercontent.com/110861069/243143970-5a47cb03-5b1b-45da-a09c-b772f6bacdbc.png" alt="Spork Screenshot" width="100%"> |
 
-##   GitHub Statistics
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KishaOnia&show_icons=true&count_private=true&theme=algolia"></p>
+/// ##   GitHub Statistics
+/// <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KishaOnia&show_icons=true&count_private=true&theme=algolia"></p>
 
 ##  Top Languages
 <p align="center">
